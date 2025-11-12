@@ -1,3 +1,4 @@
+// Brute force approach ; Complexity - O(n^2)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
